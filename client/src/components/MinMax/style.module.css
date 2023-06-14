@@ -1,0 +1,9 @@
+.inp{
+	width: 5rem;
+	text-align: center;
+}
+
+.qty_up:hover, .qty_down:hover {
+	color: #D10024;
+	cursor: pointer;
+}

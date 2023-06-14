@@ -1,0 +1,10 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const SHOP_ROUTE = '/'
+export const BASKET_ROUTE = '/basket'
+export const DEVICE_ROUTE = '/device'
+export const LIMIT = 8
+export const TEL = '+0(000) 000-00-00'
+export const EMAIL = 'email@email.com'
+export const ADRESS = '1111 Tashkent city'
